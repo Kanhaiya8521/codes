@@ -15,12 +15,10 @@ var check = function(nums) {
     for(let i = 0; i < rIndex; i++) {
         ans.push(nums[i]);
     }
-    console.log(ans);
     let count = 0 ;
     for(let i = 0 ; i < ans.length -1 ; i++) {
         if(ans[i] > ans[i+1]) count++;
     }
     if(count) return false;
     return true;
-    
 };
