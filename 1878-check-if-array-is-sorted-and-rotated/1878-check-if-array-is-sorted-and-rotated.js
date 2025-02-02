@@ -15,10 +15,9 @@ var check = function(nums) {
     for(let i = 0; i < rIndex; i++) {
         ans.push(nums[i]);
     }
-    let count = 0 ;
     for(let i = 0 ; i < ans.length -1 ; i++) {
-        if(ans[i] > ans[i+1]) count++;
+        if(ans[i] > ans[i+1]) return false;
     }
-    if(count) return false;
+    // if(count) return false;
     return true;
 };
