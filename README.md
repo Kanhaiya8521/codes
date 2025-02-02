@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kanhaiya8521/codes/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Kanhaiya8521/codes/tree/master/0075-sort-colors) |
 | [0854-making-a-large-island](https://github.com/Kanhaiya8521/codes/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Kanhaiya8521/codes/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kanhaiya8521/codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Kanhaiya8521/codes/tree/master/0075-sort-colors) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kanhaiya8521/codes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Divide and Conquer
 |  |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kanhaiya8521/codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Kanhaiya8521/codes/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
