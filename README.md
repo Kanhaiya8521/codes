@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/Kanhaiya8521/codes/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/Kanhaiya8521/codes/tree/master/2358-number-of-ways-to-split-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Kanhaiya8521/codes/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Kanhaiya8521/codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Kanhaiya8521/codes/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Kanhaiya8521/codes/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kanhaiya8521/codes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kanhaiya8521/codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/Kanhaiya8521/codes/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Kanhaiya8521/codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Kanhaiya8521/codes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/Kanhaiya8521/codes/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Kanhaiya8521/codes/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Kanhaiya8521/codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Kanhaiya8521/codes/tree/master/2685-first-completely-painted-row-or-column) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Kanhaiya8521/codes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Prefix Sum
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Kanhaiya8521/codes/tree/master/0075-sort-colors) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Kanhaiya8521/codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kanhaiya8521/codes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Divide and Conquer
 |  |
