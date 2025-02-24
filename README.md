@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Kanhaiya8521/codes/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Kanhaiya8521/codes/tree/master/0075-sort-colors) |
 | [0854-making-a-large-island](https://github.com/Kanhaiya8521/codes/tree/master/0854-making-a-large-island) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kanhaiya8521/codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Kanhaiya8521/codes/tree/master/0948-sort-an-array) |
 | [1364-tuple-with-same-product](https://github.com/Kanhaiya8521/codes/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Kanhaiya8521/codes/tree/master/1396-count-servers-that-communicate) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kanhaiya8521/codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Kanhaiya8521/codes/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Kanhaiya8521/codes/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kanhaiya8521/codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kanhaiya8521/codes/tree/master/0053-maximum-subarray) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kanhaiya8521/codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Kanhaiya8521/codes/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -232,11 +235,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kanhaiya8521/codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kanhaiya8521/codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Kanhaiya8521/codes/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kanhaiya8521/codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kanhaiya8521/codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Merge Sort
 |  |
