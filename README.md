@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kanhaiya8521/codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kanhaiya8521/codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Kanhaiya8521/codes/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Kanhaiya8521/codes/tree/master/1364-tuple-with-same-product) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kanhaiya8521/codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Kanhaiya8521/codes/tree/master/0020-valid-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Kanhaiya8521/codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Kanhaiya8521/codes/tree/master/1160-letter-tile-possibilities) |
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Kanhaiya8521/codes/tree/master/0948-sort-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kanhaiya8521/codes/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
