@@ -2,7 +2,7 @@ class Solution {
  
     private void floodfillUtils(int [][]image ,int sr ,int sc ,int color ,int row,int col,int originalColor)
     {
-        if(sr<0 || sr>=row || sc<0 || sc>=col || image[sr][sc]!=originalColor ||image[sr][sc]==color)
+        if(sr<0 || sr>=row || sc<0 || sc>=col || image[sr][sc]!=originalColor)
          return;
  
          image[sr][sc] = color;
