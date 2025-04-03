@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/Kanhaiya8521/codes/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Kanhaiya8521/codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Kanhaiya8521/codes/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Kanhaiya8521/codes/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kanhaiya8521/codes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Kanhaiya8521/codes/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Kanhaiya8521/codes/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
